@@ -14,25 +14,19 @@
 ## 技术书单
 
 - [x] 大教堂与集市
-
 - [ ] Unix编程艺术
-
 - [ ] 操作系统革命
 
 ## 诗歌
 
 - [ ] HOWL AND OTHER POEMS 嚎叫 - Allen Ginsberg
-
 - [ ] 博尔赫斯诗选
 
 ## 2022
 
 - [x] Minimalism - Live a Meaningful Life by [美] Joshua Fields Millburn, Ryan Nicodemus 著 / 李紫 译
-
 - [x] 不持有的生活 金子由纪子 著 / 燕子 译
-
 - [x] A Zero Waste Life by Anita Vandyke
-
 - [x] ALONE ON THE WALL 孤身绝壁 by [美] Alex Honnold，David Roberts 著；乔菁，李赞 译；中信出版社
 
 ## 2021
