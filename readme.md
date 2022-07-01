@@ -29,6 +29,7 @@
 
 ## 2022
 
+- [x] THE WHY CAFE - John Strelecky
 - [x] HAJIME YONEDA
 - [x] Minimalism - Live a Meaningful Life by [美] Joshua Fields Millburn, Ryan Nicodemus 著 / 李紫 译
 - [x] 不持有的生活 金子由纪子 著 / 燕子 译
