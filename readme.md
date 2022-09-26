@@ -29,6 +29,7 @@
 
 ## 2022
 
+- [ ] 行旅之木 by 星野道夫
 - [x] THE WHY CAFE - John Strelecky
 - [x] HAJIME YONEDA
 - [x] Minimalism - Live a Meaningful Life by [美] Joshua Fields Millburn, Ryan Nicodemus 著 / 李紫 译
